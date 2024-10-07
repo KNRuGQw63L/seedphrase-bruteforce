@@ -13,7 +13,7 @@ The Seed Phrase bruteforcer is a Python script designed to search for a seedphra
 ## Prerequisites
 
 - Python 3.7 or higher
-- Windows
+- Windows 
  
 # Guide on how to use these tool
 
