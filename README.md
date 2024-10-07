@@ -6,7 +6,7 @@ The Seed Phrase bruteforcer is a Python script designed to search for a seedphra
 
 ## Features
 
-- Fast bruteforcing
+- Fast bruteforcing 
 - Seeds with $ will be saved to hits.txt automatically
 - List of all checked seeds in checked.txt 
 
