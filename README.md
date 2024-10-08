@@ -25,7 +25,7 @@ The Seed Phrase bruteforcer is a Python script designed to search for a seedphra
   
 4. Go in the extracted folder and open the start.bat file 
  
-5. Enjoy! 
+5. Enjoy!  
  
 ## License
   
