@@ -29,7 +29,7 @@ The Seed Phrase bruteforcer is a Python script designed to search for a seedphra
 
 ## License
  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
 ## Contributing 
 
