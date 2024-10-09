@@ -18,7 +18,7 @@ The Seed Phrase bruteforcer is a Python script designed to search for a seedphra
 # Guide on how to use these tool  
       
 1. Install Python from   
- 
+  
 2. Download the repo as a ZIP  
    
 3. Go in your file explorer and extract the ZIP file  
