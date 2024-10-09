@@ -1,5 +1,5 @@
 # Seed Phrase Bruteforcer 
- 
+  
 ## Overview
  
 The Seed Phrase bruteforcer is a Python script designed to search for a seedphrase with money on it by brute-forcing a big amount of possible seed phrases insanely fast.. The script utilizes the BIP39 wordlist and the Web3.py library.   
